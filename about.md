@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Ubaya Dev Club adalah sebuah Club Developer yang dibuat oleh mahasiswa-mahasiswa di Universitas Surabaya untuk mendukung pembelajaran di luar kelas (Beyond the Classroom). Selain itu, Ubaya Dev Club juga merupakan sebuah wadah bagi para mahasiswa untuk sharing mengenai ilmu yang dimilikinya ke mahasiswa-mahasiswa yang lain. Di Club ini, kami juga menunjung tinggi nilai kolaborasi. Kami berharap, teman-teman yang ingin mencari partner untuk berkolaborasi entah untuk membuat aplikasi, game, ataupun mengikuti lomba bisa datang ke club ini.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Ubaya Dev Club tidak didirikan oleh seorang mahasiswa, ide ini muncul atas kolaborasi dari banyak mahasiswa serta inspirasi dari beberapa dosen. Untuk informasi lebih lanjut dapat menghubungi kami via email ataupun DM di Instagram.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ubayadevclub@gmail.com](mailto:ubayadevclub@gmail.com)
