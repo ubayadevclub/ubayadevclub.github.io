@@ -10,6 +10,11 @@ Ubaya Dev Club adalah sebuah Club Developer yang dibuat oleh mahasiswa-mahasiswa
 
 Ubaya Dev Club tidak didirikan oleh seorang mahasiswa, ide ini muncul atas kolaborasi dari banyak mahasiswa serta inspirasi dari beberapa dosen. Untuk informasi lebih lanjut dapat menghubungi kami via email ataupun DM di Instagram.
 
+### Our Social Media
+
+Ikuti kami di Instagram: [@ubayadevclub](https://instagram.com/surabayadev)
+Gabung di grup LINE untuk berdiskusi dan mengikuti update dari kami: [https://intip.in/ubayadevclub](https://intip.in/ubayadevclub)
+
 ### Contact me
 
 [ubayadevclub@gmail.com](mailto:ubayadevclub@gmail.com)
