@@ -25,11 +25,11 @@ footer-links:
   instagram: ubayadevclub
   linkedin:
   pinterest:
-  rss: https://line.me/R/ti/g/uy9UeSQWpU
+  rss: # blablalbalbla 
   twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: https://line.me/R/ti/g/uy9UeSQWpU
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
