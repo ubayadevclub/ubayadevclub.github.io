@@ -13,6 +13,7 @@ Ubaya Dev Club tidak didirikan oleh seorang mahasiswa, ide ini muncul atas kolab
 ### Our Social Media
 
 Ikuti kami di Instagram: [@ubayadevclub](https://instagram.com/surabayadev)
+
 Gabung di grup LINE untuk berdiskusi dan mengikuti update dari kami: [https://intip.in/ubayadevclub](https://intip.in/ubayadevclub)
 
 ### Contact me
