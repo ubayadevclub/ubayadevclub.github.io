@@ -16,6 +16,8 @@ Ikuti kami di Instagram: [@ubayadevclub](https://instagram.com/surabayadev)
 
 Gabung di grup LINE untuk berdiskusi dan mengikuti update dari kami: [https://intip.in/ubayadevclub](https://intip.in/ubayadevclub)
 
+Untuk mendapatkan update tentang acara dan kegiatan bisa menambahkan OA Line kami: @422izmbl
+
 ### Contact me
 
 [ubayadevclub@gmail.com](mailto:ubayadevclub@gmail.com)
